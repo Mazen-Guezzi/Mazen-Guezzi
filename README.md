@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mazen</h1>
 <h3 align="center">Fullstack developer from Tunisia</h3>
 
+- 🔭 I’m currently working **at Softylines**
+
+- 🌱 Learning all **about Web development**
+
 - 💬 Ask me about **ReactJs, NextJs, NodeJs, TypeScript, JavaScript**
 
 - 📫 How to reach me **mazenguezzi1@gmail.com**
