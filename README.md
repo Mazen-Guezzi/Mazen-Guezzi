@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **ReactJs, NextJs, NodeJs, TypeScript, JavaScript**
 
-- 📫 How to reach me **mazenguezzi1@gmail.com**
+- 📫 How to reach me **contact.mazen.guezzi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
