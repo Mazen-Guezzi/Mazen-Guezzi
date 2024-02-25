@@ -1,18 +1,34 @@
 <h1 align="center">Hi 👋, I'm Mazen</h1>
-<h3 align="center">Fullstack developer from Tunisia</h3>
 
-- 🔭 I’m currently working **at Softylines**
+<h2 align="center">Fullstack Developer | MERN Stack Specialist</h2>
 
-- 🌱 Learning all **about Web development**
+👋 Hello! I'm Mazen Guezzi, a Full-Stack Developer from Tunisia. I am currently working at Softylines and always eager to learn more about web development.
 
-- 💬 Ask me about **ReactJs, NextJs, NodeJs, TypeScript, JavaScript**
+### 🔧 Technologies & Tools
 
-- 📫 How to reach me **contact.mazen.guezzi@gmail.com**
+- **Frontend**: React.js (JavaScript/TypeScript), HTML, CSS/SCSS
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Framework**: Next.js
+- **Styling**: SCSS, CSS
+- **Other**: Git
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mazen-guezzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mazen-guezzi" height="30" width="40" /></a>
-</p>
+### 🌱 Learning
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+I am currently focused on enhancing my skills in:
+
+- JavaScript, TypeScript
+- React.js, Next.js
+- Node.js, Express.js
+
+### 💬 Ask me about
+
+- ReactJs, NextJs, NodeJs, TypeScript, JavaScript
+
+### 📫 How to reach me
+
+- Email: [contact.mazen.guezzi@gmail.com](mailto:contact.mazen.guezzi@gmail.com)
+- LinkedIn: [Mazen Guezzi](https://linkedin.com/in/mazen-guezzi)
+
+
+Thank you for visiting my GitHub profile. Let's build amazing things together! 🚀
