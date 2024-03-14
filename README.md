@@ -6,10 +6,11 @@
 
 ### 🔧 Technologies & Tools
 
-- **Frontend**: React.js (JavaScript/TypeScript), HTML, CSS/SCSS
+- **Frontend**: React.js (JavaScript/TypeScript), HTML, CSS/SCSS, Tailwind CSS, Material-UI, Ant Design
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Framework**: Next.js
+- **State Management**: Redux Toolkit
 - **Styling**: SCSS, CSS
 - **Other**: Git
 
