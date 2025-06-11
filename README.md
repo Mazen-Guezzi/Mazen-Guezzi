@@ -3,7 +3,7 @@
 <h3 align="center">Full-Stack Developer | MERN Stack Specialist | Passionate about Scalable Web Solutions</h3>
 
 <p align="center">
-  <a href="mailto:contact.mazen.guezzi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:connect.mazen@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/mazen-guezzi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
@@ -64,7 +64,7 @@ Always eager to **learn, build, and innovate**, I enjoy working on exciting proj
 
 ## 🚀 Let's Connect!  
 📫 Feel free to reach out:  
-- **Email**: [contact.mazen.guezzi@gmail.com](mailto:contact.mazen.guezzi@gmail.com)  
+- **Email**: [connect.mazen@gmail.com](mailto:connect.mazen@gmail.com)  
 - **LinkedIn**: [Mazen Guezzi](https://linkedin.com/in/mazen-guezzi)  
 
 ---
